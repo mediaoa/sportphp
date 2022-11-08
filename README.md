@@ -12,4 +12,4 @@ zepp小米运动刷步数php源码，php api接口源码，支持手机号和邮
 
 #### 使用说明
 
-https://域名/api/xiaomi/sport.php?do=shuabu&user=手机号&pass=密码&count=步数
+`https://域名/api/xiaomi/sport.php?do=shuabu&user=手机号或者邮箱&pass=密码&count=步数`
